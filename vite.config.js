@@ -7,8 +7,8 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
-      "@": path.resolve(__dirname, "./src"),
+      '@': path.resolve(__dirname, './src'),
     },
   },
-  base: '/gokul-portfolio/', // 👈 must be here, not inside resolve
+  base: '/gokul-portfolio/', // 👈 must match repo name
 })
