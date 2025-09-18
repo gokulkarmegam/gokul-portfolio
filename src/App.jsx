@@ -242,9 +242,9 @@ function App() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="text-5xl md:text-7xl font-bold text-slate-800 dark:text-white mb-6">
-              Gokulakannan
+              GokulaKannan
               <span className="block text-blue-600 dark:text-blue-400">
-                Karmegam
+                KarMegam
               </span>
             </h1>
             <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-8 max-w-3xl mx-auto">
